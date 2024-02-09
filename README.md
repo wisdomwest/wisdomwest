@@ -21,10 +21,10 @@
 
 
 - 👋 Hi, I’m @wisdomwest
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning the same at ALX
-- 💞️ I’m looking to collaborate on projects involving deep learning especially 
-- 📫 How to reach me my twitter and linkedin are in my bio
+- 👀 I’m a software engineer
+- 🌱 I’m currently learning at ALX
+- 💞️ I love low level stuff
+- 📫 Reach me on my twitter or linkedin(in my bio)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,docker,flask,git,linux,mysql,neovim,nginx,nodejs,py,bash)](https://skillicons.dev)
 <h1><h1>
