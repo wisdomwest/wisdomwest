@@ -26,7 +26,7 @@
 - 💞️ I’m looking to collaborate on projects involving deep learning especially 
 - 📫 How to reach me my twitter and linkedin are in my bio
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,docker,flask,git,linux,mysql,neovim,nginx,nodejs,py,bash)](https://skillicons.dev)
 <h1><h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisdomwest&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
